@@ -38,3 +38,4 @@ Enable Macros: Upon opening the .xlsm file, ensure you "Enable Content" to allow
 Interact with Slicers: Use the visual slicers on the dashboard to filter all connected charts and tables simultaneously.
 
 Data Updates: Update the source data in the primary sheets and refresh the Pivot Tables to see real-time updates in the visualizations.
+https://github.com/palakyadav26092000-bit/My-excel-project#:~:text=Screenshot%202025%2D11%2D20%20at%2010.12.01%20PM.png
